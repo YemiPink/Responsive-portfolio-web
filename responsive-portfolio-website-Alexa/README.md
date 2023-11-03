@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Alexa
+# Responsive Portfolio Website 
 ### Responsive Portfolio Website 
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
@@ -9,4 +9,3 @@
 
 
 
-![preview img](/preview.png)
